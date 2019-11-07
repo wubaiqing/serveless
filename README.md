@@ -1,0 +1,31 @@
+# GraphQL 演讲内容
+
+### 演讲 PPT 在线版
+![](./images/ServeLess.001.jpeg)
+![](./images/ServeLess.002.jpeg)
+![](./images/ServeLess.003.jpeg)
+![](./images/ServeLess.004.jpeg)
+![](./images/ServeLess.005.jpeg)
+![](./images/ServeLess.006.jpeg)
+![](./images/ServeLess.007.jpeg)
+![](./images/ServeLess.008.jpeg)
+![](./images/ServeLess.009.jpeg)
+![](./images/ServeLess.010.jpeg)
+![](./images/ServeLess.011.jpeg)
+![](./images/ServeLess.012.jpeg)
+![](./images/ServeLess.013.jpeg)
+![](./images/ServeLess.014.jpeg)
+![](./images/ServeLess.015.jpeg)
+![](./images/ServeLess.016.jpeg)
+![](./images/ServeLess.017.jpeg)
+![](./images/ServeLess.018.jpeg)
+![](./images/ServeLess.019.jpeg)
+![](./images/ServeLess.020.jpeg)
+![](./images/ServeLess.021.jpeg)
+![](./images/ServeLess.022.jpeg)
+![](./images/ServeLess.023.jpeg)
+![](./images/ServeLess.024.jpeg)
+
+### 学习链接
+- [ServeLess 应用场景](https://helpcdn.aliyun.com/document_detail/65565.html)  
+- [函数计算](https://www.aliyun.com/product/fc?spm=5176.12825654.eofdhaal5.45.7acc2c4aBYbpy1&aly_as=7T_jDru0)  
